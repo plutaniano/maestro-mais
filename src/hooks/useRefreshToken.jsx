@@ -5,7 +5,7 @@ export default function useRefreshToken() {
   const { setAuth } = useAuth();
 
   async function refresh() {
-    const response = await axios.get('/api/token/refresh/', {
+    const response = await axios.get('/token/refresh/', {
       withCredentials: true,
     });
 

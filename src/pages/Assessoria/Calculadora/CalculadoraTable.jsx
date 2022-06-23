@@ -43,7 +43,7 @@ export default function CalculadoraTable({ target }) {
 
   useEffect(() => {
     setIsLoading(true);
-    axiosPrivate.get(`/api/users/${target.id}/calculadora/`)
+    axiosPrivate.get(`/users/${target.id}/calculadora/`)
       .then((resp) => {
         setState({ type: 'initial', data: resp.data });
         setIsLoading(false);
@@ -128,7 +128,7 @@ export default function CalculadoraTable({ target }) {
             <Flex p={3}>
               <Spacer />
               <RequestButton
-                onClick={() => axiosPrivate.put(`/api/users/${target.id}/calculadora/`, state)}
+                onClick={() => axiosPrivate.put(`/users/${target.id}/calculadora/`, state)}
               />
             </Flex>
           </>

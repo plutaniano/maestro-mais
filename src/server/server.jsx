@@ -17,7 +17,7 @@ export default function makeServer({ environment }) {
     environment,
 
     routes() {
-      this.namespace = 'api';
+      this.urlPrefix = 'https://api.maestrocapital.com.br';
 
       this.get('users/', () => USERS);
       this.get('users/:id/calculadora/', () => CALCULADORA);

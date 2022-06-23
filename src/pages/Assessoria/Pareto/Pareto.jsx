@@ -24,7 +24,7 @@ export default function Pareto() {
 
   useEffect(() => {
     setIsLoading(true);
-    axiosPrivate.get(`/api/users/${target.id}/pareto/`, { params: period.params })
+    axiosPrivate.get(`/users/${target.id}/pareto/`, { params: period.params })
       .then((resp) => {
         setData(resp.data);
         setIsLoading(false);

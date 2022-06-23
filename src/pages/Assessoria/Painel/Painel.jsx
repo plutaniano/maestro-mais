@@ -21,7 +21,7 @@ export default function Painel() {
 
   useEffect(() => {
     setIsLoading(true);
-    axiosPrivate.get(`/api/users/${target.id}/history/`, period.params)
+    axiosPrivate.get(`/users/${target.id}/history/`, period.params)
       .then((resp) => {
         setHistory(resp.data);
         setIsLoading(false);

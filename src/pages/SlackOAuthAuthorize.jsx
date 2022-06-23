@@ -10,7 +10,7 @@ export default function SlackOAuthAuthorize() {
 
   useEffect(() => {
     const code = searchParams.get('code');
-    axios.get('/api/token/', { params: { code } })
+    axios.get('/token/', { params: { code } })
       .then((response) => {
         const accessToken = response?.data?.access;
         const user = response?.data?.user;

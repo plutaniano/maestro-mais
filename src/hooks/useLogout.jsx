@@ -7,7 +7,7 @@ export default function useLogout() {
   const navigate = useNavigate();
 
   function logout() {
-    axios.get('/api/token/logout/', {
+    axios.get('/token/logout/', {
       withCredentials: true,
     })
       .finally(() => {

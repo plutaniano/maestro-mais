@@ -8,7 +8,7 @@ export default function XpAccountList({ xpAccounts }) {
 
   function handleChange(event, xpAccount) {
     const params = { is_mesa_rv: event.target.checked };
-    axios.patch(`/api/xpaccounts/${xpAccount.id}/`, params)
+    axios.patch(`/xpaccounts/${xpAccount.id}/`, params)
       .then((res) => console.log(res.data))
       .catch((err) => console.error(err));
   }

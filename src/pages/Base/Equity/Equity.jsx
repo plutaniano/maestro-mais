@@ -12,7 +12,7 @@ export default function Equity() {
   const axiosPrivate = useAxiosPrivate();
 
   useEffect(() => {
-    axiosPrivate.get('/api/equities/')
+    axiosPrivate.get('/equities/')
       .then((resp) => resp.json())
       .then((resp) => {
         setEquities(resp);

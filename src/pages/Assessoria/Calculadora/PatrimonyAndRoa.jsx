@@ -12,7 +12,7 @@ export default function PatrimonyAndRoa({ target }) {
 
   useEffect(() => {
     setIsLoading(true);
-    axiosPrivate.get(`/api/users/${target.id}/latestmonth/`)
+    axiosPrivate.get(`/users/${target.id}/latestmonth/`)
       .then((resp) => {
         setData(resp.data);
         setIsLoading(false);

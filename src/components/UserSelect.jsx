@@ -13,7 +13,7 @@ export default function UserSelect({
   const axiosPrivate = useAxiosPrivate();
 
   useEffect(() => {
-    axiosPrivate.get('/api/users/', { params, is_advisor: isAdvisor })
+    axiosPrivate.get('/users/', { params, is_advisor: isAdvisor })
       .then((resp) => setUsers(resp.data.results));
   }, []);
 

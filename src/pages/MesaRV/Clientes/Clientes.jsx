@@ -19,7 +19,7 @@ export default function Clientes() {
       query: event.target.value,
       order_by: 'name',
     };
-    const response = await axios.get('/api/xpaccounts/', { params });
+    const response = await axios.get('/xpaccounts/', { params });
     setXpAccounts(response.data.results);
   }
 
