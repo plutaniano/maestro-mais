@@ -1,0 +1,21 @@
+{
+    "roa": {
+        "fixed_income": 10.0,
+        "equity": 10.0,
+        "real_estate": 10.0,
+        "total": 10.0,
+        "fund": 10.0,
+        "private_pension": 10.0
+    },
+    "patrimony": {
+        "fixed_income": 10.0,
+        "equity": 10.0,
+        "coe": 10.0,
+        "real_estate": 10.0,
+        "total": 10.0,
+        "fund": 10.0,
+        "other": 10.0,
+        "financial": 10.0,
+        "private_pension": 10.0
+    }
+}

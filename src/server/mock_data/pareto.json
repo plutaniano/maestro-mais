@@ -1,0 +1,686 @@
+{
+    "revenue": {
+        "coe": 42300.0,
+        "credit": 0.0,
+        "equity": 44747.8,
+        "real_estate": 43.84,
+        "fixed_income": 69887.69,
+        "forex": 0.0,
+        "fund": 185236.64,
+        "insurance": 5.56,
+        "private_pension": 31029.96,
+        "other": 3500.03,
+        "total": 376751.52
+    },
+    "patrimony": {
+        "fund": 61829711.3,
+        "equity": 52659513.2,
+        "private_pension": 16975237.67,
+        "fixed_income": 72702897.72,
+        "real_estate": 1152120.36,
+        "balance": 1522654.54,
+        "total": 206842134.83
+    },
+    "top_clients": [
+        {
+            "xp_account": 1000096,
+            "patrimony": {
+                "fund": 15369876.55,
+                "equity": 646271.72,
+                "private_pension": 5929206.71,
+                "fixed_income": 36412897.59,
+                "real_estate": 0.0,
+                "balance": 287.73,
+                "total": 58358540.3
+            },
+            "revenue": {
+                "coe": 3800.0,
+                "credit": 0.0,
+                "equity": 9368.75,
+                "real_estate": 0.0,
+                "fixed_income": 30304.95,
+                "forex": 0.0,
+                "fund": 41305.49,
+                "insurance": 0.0,
+                "private_pension": 12909.82,
+                "other": 0.0,
+                "total": 97689.01
+            },
+            "roa": {
+                "equity": 1.45,
+                "total": 0.167,
+                "fixed_income": 0.083,
+                "fund": 0.269,
+                "real_estate": 0.0,
+                "private_pension": 0.218
+            }
+        },
+        {
+            "xp_account": 326025,
+            "patrimony": {
+                "fund": 2293665.31,
+                "equity": 417646.67,
+                "private_pension": 175842.53,
+                "fixed_income": 1320900.43,
+                "real_estate": 0.0,
+                "balance": 397.56,
+                "total": 4208452.5
+            },
+            "revenue": {
+                "coe": 28500.0,
+                "credit": 0.0,
+                "equity": 168.85,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 2383.31,
+                "insurance": 5.56,
+                "private_pension": 391.1,
+                "other": 0.0,
+                "total": 31448.82
+            },
+            "roa": {
+                "equity": 0.04,
+                "total": 0.747,
+                "fixed_income": 0.0,
+                "fund": 0.104,
+                "real_estate": 0.0,
+                "private_pension": 0.222
+            }
+        },
+        {
+            "xp_account": 373410,
+            "patrimony": {
+                "fund": 9805202.99,
+                "equity": 189258.54,
+                "private_pension": 2049946.97,
+                "fixed_income": 787177.45,
+                "real_estate": 675538.18,
+                "balance": 2393.75,
+                "total": 13509517.88
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 219.1,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 24411.43,
+                "insurance": 0.0,
+                "private_pension": 3494.86,
+                "other": 0.0,
+                "total": 28125.39
+            },
+            "roa": {
+                "equity": 0.116,
+                "total": 0.208,
+                "fixed_income": 0.0,
+                "fund": 0.249,
+                "real_estate": 0.0,
+                "private_pension": 0.17
+            }
+        },
+        {
+            "xp_account": 2438961,
+            "patrimony": {
+                "fund": 2323242.48,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 6042757.8,
+                "real_estate": 0.0,
+                "balance": 537.02,
+                "total": 8366537.31
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 3326.69,
+                "real_estate": 0.0,
+                "fixed_income": 19244.8,
+                "forex": 0.0,
+                "fund": 5105.76,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 27677.25
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.331,
+                "fixed_income": 0.318,
+                "fund": 0.22,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 3391652,
+            "patrimony": {
+                "fund": 7793848.35,
+                "equity": 2567261.65,
+                "private_pension": 172998.32,
+                "fixed_income": 742185.88,
+                "real_estate": 0.0,
+                "balance": 454869.8,
+                "total": 11731164.01
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 1388.73,
+                "real_estate": 0.0,
+                "fixed_income": 599.46,
+                "forex": 0.0,
+                "fund": 20095.92,
+                "insurance": 0.0,
+                "private_pension": 385.86,
+                "other": 0.0,
+                "total": 22469.97
+            },
+            "roa": {
+                "equity": 0.054,
+                "total": 0.192,
+                "fixed_income": 0.081,
+                "fund": 0.258,
+                "real_estate": 0.0,
+                "private_pension": 0.223
+            }
+        },
+        {
+            "xp_account": 2530990,
+            "patrimony": {
+                "fund": 5787309.72,
+                "equity": 459839.94,
+                "private_pension": 1622385.7,
+                "fixed_income": 3343974.36,
+                "real_estate": 45627.1,
+                "balance": 93220.72,
+                "total": 11352357.54
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 5222.58,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 13263.29,
+                "insurance": 0.0,
+                "private_pension": 2668.94,
+                "other": 0.0,
+                "total": 21154.81
+            },
+            "roa": {
+                "equity": 1.136,
+                "total": 0.186,
+                "fixed_income": 0.0,
+                "fund": 0.229,
+                "real_estate": 0.0,
+                "private_pension": 0.165
+            }
+        },
+        {
+            "xp_account": 2615181,
+            "patrimony": {
+                "fund": 980909.53,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 2348541.6,
+                "real_estate": 0.0,
+                "balance": 207.01,
+                "total": 3329658.14
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 4192.17,
+                "real_estate": 0.0,
+                "fixed_income": 7772.77,
+                "forex": 0.0,
+                "fund": 503.52,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 12468.46
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.374,
+                "fixed_income": 0.331,
+                "fund": 0.051,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 2745926,
+            "patrimony": {
+                "fund": 3172494.94,
+                "equity": 13223.25,
+                "private_pension": 2135461.18,
+                "fixed_income": 1470503.57,
+                "real_estate": 0.0,
+                "balance": 295.89,
+                "total": 6791978.84
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 173.71,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 7282.5,
+                "insurance": 0.0,
+                "private_pension": 3537.31,
+                "other": 0.0,
+                "total": 10993.52
+            },
+            "roa": {
+                "equity": 1.314,
+                "total": 0.162,
+                "fixed_income": 0.0,
+                "fund": 0.23,
+                "real_estate": 0.0,
+                "private_pension": 0.166
+            }
+        },
+        {
+            "xp_account": 2141868,
+            "patrimony": {
+                "fund": 2219.59,
+                "equity": 48512134.8,
+                "private_pension": 0.0,
+                "fixed_income": 7704368.0,
+                "real_estate": 0.0,
+                "balance": 974988.35,
+                "total": 57193710.74
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 10535.58,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 0.0,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 10535.58
+            },
+            "roa": {
+                "equity": 0.022,
+                "total": 0.018,
+                "fixed_income": 0.0,
+                "fund": 0.0,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 2676116,
+            "patrimony": {
+                "fund": 1474599.03,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 5253208.41,
+                "real_estate": 0.0,
+                "balance": 6297.54,
+                "total": 6734104.97
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 8429.87,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 8429.87
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.125,
+                "fixed_income": 0.0,
+                "fund": 0.572,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 2935794,
+            "patrimony": {
+                "fund": 1575198.66,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 0.0,
+                "real_estate": 0.0,
+                "balance": 163595.94,
+                "total": 1738794.6
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 2392.09,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 4360.0,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 6752.09
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.388,
+                "fixed_income": 0.0,
+                "fund": 0.277,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 295755,
+            "patrimony": {
+                "fund": 1037433.53,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 3336063.79,
+                "real_estate": 1584.64,
+                "balance": 1655.79,
+                "total": 4376737.75
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 4442.56,
+                "forex": 0.0,
+                "fund": 1330.03,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 5772.59
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.132,
+                "fixed_income": 0.133,
+                "fund": 0.128,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 2645707,
+            "patrimony": {
+                "fund": 1358680.55,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 986499.26,
+                "real_estate": 0.0,
+                "balance": 0.0,
+                "total": 2345179.82
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 2648.95,
+                "forex": 0.0,
+                "fund": 2431.78,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 5080.73
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.217,
+                "fixed_income": 0.269,
+                "fund": 0.179,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 3847702,
+            "patrimony": {
+                "fund": 1613189.37,
+                "equity": 177706.35,
+                "private_pension": 0.0,
+                "fixed_income": 199052.85,
+                "real_estate": 0.0,
+                "balance": 35959.46,
+                "total": 2025908.04
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 1605.46,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 3465.15,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 5070.61
+            },
+            "roa": {
+                "equity": 0.903,
+                "total": 0.25,
+                "fixed_income": 0.0,
+                "fund": 0.215,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 9856,
+            "patrimony": {
+                "fund": 0.0,
+                "equity": 660838.0,
+                "private_pension": 0.0,
+                "fixed_income": 0.0,
+                "real_estate": 0.0,
+                "balance": 71832.51,
+                "total": 732670.51
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 4908.46,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 0.0,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 4908.46
+            },
+            "roa": {
+                "equity": 0.743,
+                "total": 0.67,
+                "fixed_income": 0.0,
+                "fund": 0.0,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 3240013,
+            "patrimony": {
+                "fund": 233655.36,
+                "equity": 0.0,
+                "private_pension": 1609718.15,
+                "fixed_income": 284201.02,
+                "real_estate": 0.0,
+                "balance": 11671.78,
+                "total": 2139246.31
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 679.52,
+                "forex": 0.0,
+                "fund": 717.69,
+                "insurance": 0.0,
+                "private_pension": 3409.99,
+                "other": 0.0,
+                "total": 4807.2
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.225,
+                "fixed_income": 0.239,
+                "fund": 0.307,
+                "real_estate": 0.0,
+                "private_pension": 0.212
+            }
+        },
+        {
+            "xp_account": 335366,
+            "patrimony": {
+                "fund": 753678.96,
+                "equity": 661086.15,
+                "private_pension": 69514.3,
+                "fixed_income": 871904.82,
+                "real_estate": 0.0,
+                "balance": 671.71,
+                "total": 2356855.94
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 312.5,
+                "real_estate": 0.0,
+                "fixed_income": 2627.52,
+                "forex": 0.0,
+                "fund": 1661.65,
+                "insurance": 0.0,
+                "private_pension": 82.53,
+                "other": 0.0,
+                "total": 4684.2
+            },
+            "roa": {
+                "equity": 0.047,
+                "total": 0.199,
+                "fixed_income": 0.301,
+                "fund": 0.22,
+                "real_estate": 0.0,
+                "private_pension": 0.119
+            }
+        },
+        {
+            "xp_account": 7383746,
+            "patrimony": {
+                "fund": 7251999.7,
+                "equity": 0.0,
+                "private_pension": 0.0,
+                "fixed_income": 0.0,
+                "real_estate": 0.0,
+                "balance": 0.0,
+                "total": 7251999.7
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 2829.47,
+                "insurance": 0.0,
+                "private_pension": 0.0,
+                "other": 0.0,
+                "total": 2829.47
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.039,
+                "fixed_income": 0.0,
+                "fund": 0.039,
+                "real_estate": 0.0,
+                "private_pension": 0.0
+            }
+        },
+        {
+            "xp_account": 3175664,
+            "patrimony": {
+                "fund": 0.0,
+                "equity": 0.0,
+                "private_pension": 1386677.67,
+                "fixed_income": 0.0,
+                "real_estate": 0.0,
+                "balance": 0.0,
+                "total": 1386677.67
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 0.0,
+                "insurance": 0.0,
+                "private_pension": 2701.11,
+                "other": 0.0,
+                "total": 2701.11
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.195,
+                "fixed_income": 0.0,
+                "fund": 0.0,
+                "real_estate": 0.0,
+                "private_pension": 0.195
+            }
+        },
+        {
+            "xp_account": 3005634,
+            "patrimony": {
+                "fund": 813770.02,
+                "equity": 0.0,
+                "private_pension": 172740.67,
+                "fixed_income": 275895.65,
+                "real_estate": 0.0,
+                "balance": 4000.61,
+                "total": 1266406.95
+            },
+            "revenue": {
+                "coe": 0.0,
+                "credit": 0.0,
+                "equity": 0.0,
+                "real_estate": 0.0,
+                "fixed_income": 0.0,
+                "forex": 0.0,
+                "fund": 1803.16,
+                "insurance": 0.0,
+                "private_pension": 220.98,
+                "other": 0.0,
+                "total": 2024.14
+            },
+            "roa": {
+                "equity": 0.0,
+                "total": 0.16,
+                "fixed_income": 0.0,
+                "fund": 0.222,
+                "real_estate": 0.0,
+                "private_pension": 0.128
+            }
+        }
+    ]
+}

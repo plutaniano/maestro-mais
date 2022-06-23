@@ -1,0 +1,470 @@
+[
+    {
+        "month": "2021-04-01",
+        "deposits": {
+            "withdrawals": -11278685.02,
+            "deposits": 36171129.37,
+            "liquid": 24892444.35,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "balance": 0.0,
+            "total": 0.0
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 0.0,
+            "real_estate": 0.0,
+            "fixed_income": 0.0,
+            "forex": 0.0,
+            "fund": 0.0,
+            "insurance": 0.0,
+            "private_pension": 0.0,
+            "other": 0.0,
+            "total": 0.0
+        },
+        "roa": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "total": 0.0
+        }
+    },
+    {
+        "month": "2021-05-01",
+        "deposits": {
+            "withdrawals": -1066015.03,
+            "deposits": 10788098.38,
+            "liquid": 9722083.35,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "balance": 0.0,
+            "total": 0.0
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 0.0,
+            "real_estate": 0.0,
+            "fixed_income": 0.0,
+            "forex": 0.0,
+            "fund": 0.0,
+            "insurance": 0.0,
+            "private_pension": 0.0,
+            "other": 0.0,
+            "total": 0.0
+        },
+        "roa": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "total": 0.0
+        }
+    },
+    {
+        "month": "2021-06-01",
+        "deposits": {
+            "withdrawals": -1404511.84,
+            "deposits": 1269879.56,
+            "liquid": -134632.28,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "balance": 0.0,
+            "total": 0.0
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 0.0,
+            "real_estate": 0.0,
+            "fixed_income": 0.0,
+            "forex": 0.0,
+            "fund": 0.0,
+            "insurance": 0.0,
+            "private_pension": 0.0,
+            "other": 0.0,
+            "total": 0.0
+        },
+        "roa": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "total": 0.0
+        }
+    },
+    {
+        "month": "2021-07-01",
+        "deposits": {
+            "withdrawals": -853080.0,
+            "deposits": 1271966.21,
+            "liquid": 418886.21,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 66701534.58,
+            "equity": 60076199.51,
+            "private_pension": 19072699.97,
+            "fixed_income": 50673292.48,
+            "real_estate": 1691626.45,
+            "balance": 854210.41,
+            "total": 199069563.42
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 11345.12,
+            "real_estate": 0.0,
+            "fixed_income": 2278.6,
+            "forex": 0.0,
+            "fund": 20019.51,
+            "insurance": 0.0,
+            "private_pension": 4732.4,
+            "other": 0.0,
+            "total": 38375.63
+        },
+        "roa": {
+            "fund": 0.3602,
+            "equity": 0.2266,
+            "private_pension": 0.2977,
+            "fixed_income": 0.054,
+            "real_estate": 0.0,
+            "total": 0.2313
+        }
+    },
+    {
+        "month": "2021-08-01",
+        "deposits": {
+            "withdrawals": -1149398.23,
+            "deposits": 724719.51,
+            "liquid": -424678.72,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 70048610.16,
+            "equity": 51217863.42,
+            "private_pension": 19090028.39,
+            "fixed_income": 57259767.06,
+            "real_estate": 1118539.84,
+            "balance": 435348.37,
+            "total": 199170157.22
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 3963.81,
+            "real_estate": 0.0,
+            "fixed_income": 449.62,
+            "forex": 0.0,
+            "fund": 19857.21,
+            "insurance": 0.0,
+            "private_pension": 4812.18,
+            "other": 0.0,
+            "total": 29082.82
+        },
+        "roa": {
+            "fund": 0.3402,
+            "equity": 0.0929,
+            "private_pension": 0.3025,
+            "fixed_income": 0.0094,
+            "real_estate": 0.0,
+            "total": 0.1752
+        }
+    },
+    {
+        "month": "2021-09-01",
+        "deposits": {
+            "withdrawals": -3756740.8,
+            "deposits": 3536017.22,
+            "liquid": -220723.58,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 69971406.37,
+            "equity": 47206519.17,
+            "private_pension": 17258071.87,
+            "fixed_income": 59396176.36,
+            "real_estate": 1082606.48,
+            "balance": 752205.22,
+            "total": 195666985.44
+        },
+        "revenue": {
+            "coe": 38500.0,
+            "credit": 0.0,
+            "equity": 2465.36,
+            "real_estate": 0.0,
+            "fixed_income": 8535.51,
+            "forex": 0.0,
+            "fund": 19819.64,
+            "insurance": 0.0,
+            "private_pension": 4404.41,
+            "other": 0.0,
+            "total": 73724.92
+        },
+        "roa": {
+            "fund": 0.3399,
+            "equity": 0.0627,
+            "private_pension": 0.3063,
+            "fixed_income": 0.1724,
+            "real_estate": 0.0,
+            "total": 0.4521
+        }
+    },
+    {
+        "month": "2021-10-01",
+        "deposits": {
+            "withdrawals": -903925.53,
+            "deposits": 1745177.99,
+            "liquid": 841252.46,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 69885283.53,
+            "equity": 44228299.53,
+            "private_pension": 16901719.42,
+            "fixed_income": 60688308.54,
+            "real_estate": 1044769.47,
+            "balance": 1114448.06,
+            "total": 193862828.56
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 1983.88,
+            "real_estate": 34.46,
+            "fixed_income": 8530.53,
+            "forex": 0.0,
+            "fund": 22400.51,
+            "insurance": 0.0,
+            "private_pension": 4221.47,
+            "other": 0.0,
+            "total": 37170.85
+        },
+        "roa": {
+            "fund": 0.3846,
+            "equity": 0.0538,
+            "private_pension": 0.2997,
+            "fixed_income": 0.1687,
+            "real_estate": 0.0396,
+            "total": 0.2301
+        }
+    },
+    {
+        "month": "2021-11-01",
+        "deposits": {
+            "withdrawals": -2678416.21,
+            "deposits": 2659615.21,
+            "liquid": -18801.0,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 69196289.09,
+            "equity": 44239556.99,
+            "private_pension": 15767464.18,
+            "fixed_income": 63267770.22,
+            "real_estate": 1001375.71,
+            "balance": 1373932.24,
+            "total": 194846388.45
+        },
+        "revenue": {
+            "coe": 3800.0,
+            "credit": 0.0,
+            "equity": 861.2,
+            "real_estate": 9.38,
+            "fixed_income": 17191.55,
+            "forex": 0.0,
+            "fund": 21277.53,
+            "insurance": 0.0,
+            "private_pension": 4173.9,
+            "other": 2625.0,
+            "total": 49938.56
+        },
+        "roa": {
+            "fund": 0.369,
+            "equity": 0.0234,
+            "private_pension": 0.3177,
+            "fixed_income": 0.3261,
+            "real_estate": 0.0112,
+            "total": 0.3076
+        }
+    },
+    {
+        "month": "2021-12-01",
+        "deposits": {
+            "withdrawals": -8119769.64,
+            "deposits": 13227953.49,
+            "liquid": 5108183.85,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 70878447.78,
+            "equity": 47599738.21,
+            "private_pension": 15990241.51,
+            "fixed_income": 66183323.86,
+            "real_estate": 1070435.03,
+            "balance": 679254.99,
+            "total": 202401441.3
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 8573.86,
+            "real_estate": 0.0,
+            "fixed_income": 12726.79,
+            "forex": 0.0,
+            "fund": 41055.3,
+            "insurance": 0.0,
+            "private_pension": 4553.48,
+            "other": 875.03,
+            "total": 67784.46
+        },
+        "roa": {
+            "fund": 0.6951,
+            "equity": 0.2161,
+            "private_pension": 0.3417,
+            "fixed_income": 0.2308,
+            "real_estate": 0.0,
+            "total": 0.4019
+        }
+    },
+    {
+        "month": "2022-01-01",
+        "deposits": {
+            "withdrawals": -1356333.35,
+            "deposits": 985806.28,
+            "liquid": -370527.07,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 71045185.12,
+            "equity": 48715417.31,
+            "private_pension": 16130562.78,
+            "fixed_income": 66347270.74,
+            "real_estate": 1044194.84,
+            "balance": 1190481.84,
+            "total": 204473112.62
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 10075.58,
+            "real_estate": 0.0,
+            "fixed_income": 7404.23,
+            "forex": 0.0,
+            "fund": 26360.4,
+            "insurance": 5.56,
+            "private_pension": 4132.12,
+            "other": 0.0,
+            "total": 47977.89
+        },
+        "roa": {
+            "fund": 0.4452,
+            "equity": 0.2482,
+            "private_pension": 0.3074,
+            "fixed_income": 0.1339,
+            "real_estate": 0.0,
+            "total": 0.2816
+        }
+    },
+    {
+        "month": "2022-02-01",
+        "deposits": {
+            "withdrawals": -1724334.68,
+            "deposits": 1149986.86,
+            "liquid": -574347.82,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 62423689.89,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 163277.24,
+            "real_estate": 0.0,
+            "balance": 1055921.14,
+            "total": 63642888.27
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 5478.99,
+            "real_estate": 0.0,
+            "fixed_income": 12770.86,
+            "forex": 0.0,
+            "fund": 14446.54,
+            "insurance": 0.0,
+            "private_pension": 0.0,
+            "other": 0.0,
+            "total": 32696.39
+        },
+        "roa": {
+            "fund": 0.2777,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 93.859,
+            "real_estate": 0.0,
+            "total": 0.6165
+        }
+    },
+    {
+        "month": "2022-03-01",
+        "deposits": {
+            "withdrawals": -2427846.51,
+            "deposits": 14827117.7,
+            "liquid": 12399271.19,
+            "target": 2000000.0
+        },
+        "patrimony": {
+            "fund": 61829711.3,
+            "equity": 52659513.2,
+            "private_pension": 16975237.67,
+            "fixed_income": 72702897.72,
+            "real_estate": 1152120.36,
+            "balance": 1522654.54,
+            "total": 206842134.83
+        },
+        "revenue": {
+            "coe": 0.0,
+            "credit": 0.0,
+            "equity": 0.0,
+            "real_estate": 0.0,
+            "fixed_income": 0.0,
+            "forex": 0.0,
+            "fund": 0.0,
+            "insurance": 0.0,
+            "private_pension": 0.0,
+            "other": 0.0,
+            "total": 0.0
+        },
+        "roa": {
+            "fund": 0.0,
+            "equity": 0.0,
+            "private_pension": 0.0,
+            "fixed_income": 0.0,
+            "real_estate": 0.0,
+            "total": 0.0
+        }
+    }
+]

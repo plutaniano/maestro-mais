@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "is_advisor": true,
+    "avatar": "https://avatars.slack-edge.com/2021-02-25/1802231952324_869cdde8d821eb129836_512.png",
+    "is_superuser": true,
+    "username": "lucas",
+    "first_name": "Lucas",
+    "last_name": "Rodrigues Silva",
+    "email": "lucas.rodrigues@maestroinvestimentos.com.br",
+    "is_staff": true,
+    "is_active": true,
+    "advisor_id": 20261,
+    "hubspot_id": 26703871,
+    "branch": 1,
+    "slack": "U01P77DJZ2A",
+    "groups": [
+        4
+    ],
+    "user_permissions": []
+}

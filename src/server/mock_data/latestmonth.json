@@ -1,0 +1,31 @@
+{
+    "revenue": {
+        "coe": 0.0,
+        "credit": 0.0,
+        "equity": 5478.99,
+        "real_estate": 0.0,
+        "fixed_income": 12770.86,
+        "forex": 0.0,
+        "fund": 14446.54,
+        "insurance": 0.0,
+        "private_pension": 0.0,
+        "other": 0.0,
+        "total": 32696.39
+    },
+    "patrimony": {
+        "fund": 29.89,
+        "equity": 25.46,
+        "private_pension": 8.21,
+        "fixed_income": 35.15,
+        "real_estate": 0.56,
+        "balance": 0.74
+    },
+    "roa": {
+        "total": 0.19,
+        "real_estate": 0.0,
+        "equity": 0.125,
+        "private_pension": 0.0,
+        "fund": 0.28,
+        "fixed_income": 0.211
+    }
+}
