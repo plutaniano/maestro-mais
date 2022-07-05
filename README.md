@@ -1,4 +1,4 @@
 To serve the app
-```js
+```bash
 node serve.js
 ```
