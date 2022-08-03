@@ -6,16 +6,14 @@ export default function useLogout() {
   const { setAuth } = useAuth();
   const navigate = useNavigate();
 
-  // // TODO: re-enable logout
-  // function logout() {
-  //   axios.get('/token/logout/', {
-  //     withCredentials: true,
-  //   })
-  //     .finally(() => {
-  //       setAuth({});
-  //       navigate('/login');
-  //     });
-  // }
-  // return logout;
-  return () => { };
+  function logout() {
+    axios.get('/token/logout/', {
+      withCredentials: true,
+    })
+      .finally(() => {
+        setAuth({});
+        navigate('/login');
+      });
+  }
+  return logout;
 }
