@@ -1,11 +1,11 @@
 {
     "id": 1,
     "is_advisor": true,
-    "avatar": "https://avatars.slack-edge.com/2021-02-25/1802231952324_869cdde8d821eb129836_512.png",
+    "avatar": "https://robohash.org/hicveldicta.png",
     "is_superuser": true,
     "username": "lucas",
     "first_name": "Lucas",
-    "last_name": "Rodrigues Silva",
+    "last_name": "Rodrigues",
     "email": "lucas.rodrigues@maestroinvestimentos.com.br",
     "is_staff": true,
     "is_active": true,
